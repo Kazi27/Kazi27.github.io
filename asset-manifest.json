@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ee982e37.css",
-    "main.js": "/static/js/main.da978204.js",
+    "main.js": "/static/js/main.8d8af508.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/kazi.png": "/static/media/kazi.60210e5dbcd200032545.png",
     "static/media/infragard.png": "/static/media/infragard.1d7f8bc9f754f21e92f5.png",
@@ -78,10 +78,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.ee982e37.css.map": "/static/css/main.ee982e37.css.map",
-    "main.da978204.js.map": "/static/js/main.da978204.js.map"
+    "main.8d8af508.js.map": "/static/js/main.8d8af508.js.map"
   },
   "entrypoints": [
     "static/css/main.ee982e37.css",
-    "static/js/main.da978204.js"
+    "static/js/main.8d8af508.js"
   ]
 }
